@@ -18,7 +18,7 @@ class Stopwatch {
 			this.currentNumber--;
 			document.getElementById('currentNumber').innerText = this.currentNumber;
 			if (this.currentNumber === 0) {
-				clearInterval(countdown);
+				clearInterval(this.interval);
 				this.isCountingDown = false;
 				console.log("time's up!");
 			}
