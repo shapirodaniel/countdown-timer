@@ -2,7 +2,7 @@
 
 This countdown timer app was built with vanilla javascript, html, css! It counts down from 60 to 0, logs a "time's up!" message to the console, and provides stop / start as well as reset functionality.
 
-![Countdown Timer](https://i.imgur.com/jmnjwLN.gifv)
+![](https://i.imgur.com/jmnjwLN.gif)
 
 ## Take it for a spin!
 
